@@ -20,7 +20,7 @@ We use Hudl for our film software. All games get recorded and uploaded into Hudl
 <img width="1053" height="592" alt="Off1" src="https://github.com/user-attachments/assets/9a554511-cfc2-4a1c-97ab-83950a1e4b4a" />
 This is one of the offensive dashboards. In the top left there are dropdowns to filter by season, or opponent (defense). There are tiles of yards/play, yards/game and success rate for total offense, rushing and passing. These are just general data for reference. There are also two matrices for formations and plays. We can use these to determine which formations/plays are more or less successful. We can then go back and see what we are doing well or poorly and make changes to our schemes. At the bottom is our weekly yardage. The visualizations are interactive, so clicking on a formation will filter the plays to only that formation, and vice-versa.
 
-
+<br><br>
 
 <img width="1156" height="593" alt="Off2" src="https://github.com/user-attachments/assets/482b0035-4113-40ef-84b1-fe7888f5099f" />
 This is the dashboard I use for formation tendencies. I can filter by season or opponent. At the bottom are the formations. There is also a level up for personnel if we wanted to look at that. Clickign on the formation at the bottom filters the top visualizationa for that formation. From this we can determine if we have any glaring tendencies in play calling in that formation. 
