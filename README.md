@@ -16,5 +16,8 @@ We use Hudl for our film software. All games get recorded and uploaded into Hudl
 
 5) Now that the data has been extracted, cleaned and loaded, it is now set to be used. Me and head coach are the primary users of the data. We use it to make decisions about game management. For example, we look at our offense vs their defense and how we feel about the matchup to determine 4th down strategy and 2pt decisions.
 
+## screenshots
+<img width="1053" height="592" alt="Off1" src="https://github.com/user-attachments/assets/9a554511-cfc2-4a1c-97ab-83950a1e4b4a" />
+This is one of the offensive dashboards. In the top left there are dropdowns to filter by season, or opponent (defense). There are tiles of yards/play, yards/game and success rate for total offense, rushing and passing. These are just general data for reference. There are also two matrices for formations and plays. We can use these to determine which formations/plays are more or less successful. We can then go back and see what we are doing well or poorly and make changes to our schemes. At the bottom is our weekly yardage. The visualizations are interactive, so clicking on a formation will filter the plays to only that formation, and vice-versa.
 
 
