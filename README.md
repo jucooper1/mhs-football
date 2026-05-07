@@ -23,4 +23,8 @@ This is one of the offensive dashboards. In the top left there are dropdowns to 
 <br><br>
 
 <img width="1156" height="593" alt="Off2" src="https://github.com/user-attachments/assets/482b0035-4113-40ef-84b1-fe7888f5099f" />
-This is the dashboard I use for formation tendencies. I can filter by season or opponent. At the bottom are the formations. There is also a level up for personnel if we wanted to look at that. Clickign on the formation at the bottom filters the top visualizationa for that formation. From this we can determine if we have any glaring tendencies in play calling in that formation. 
+This is the dashboard I use for formation tendencies. I can filter by season or opponent. At the bottom are the formations. There is also a level up for personnel if we wanted to look at that. Clicking on the formation at the bottom filters the top visualizations for that formation. From this we can determine if we have any glaring tendencies in play calling in that formation. 
+
+<br><br>
+
+<img width="1055" height="597" alt="Def1" src="https://github.com/user-attachments/assets/f821ed67-da78-40e2-be95-b2465f69e7e7" />
