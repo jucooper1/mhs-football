@@ -28,4 +28,9 @@ This is the dashboard I use for formation tendencies. I can filter by season or 
 <br><br>
 
 <img width="1055" height="597" alt="Def1" src="https://github.com/user-attachments/assets/f821ed67-da78-40e2-be95-b2465f69e7e7" />
-This is our scouting dashboard. We use this to look at tendencies and trends for our upcoming opponents. 
+This is our scouting dashboard. We use this to look at tendencies and trends for our upcoming opponents. In the top left we have filters. We also look at who their main ballcarriers are as well as positions, all filterable for situation. In the bottom left we can see what areas of the field they like to attack, also filterable. We also have data on plays and formations.
+
+<br><br>
+
+<img width="1108" height="907" alt="Screenshot 2026-05-08 10 38 01 AM - Display 1" src="https://github.com/user-attachments/assets/14f32c00-3a44-47e9-9e3b-4d96632181cc" />
+
