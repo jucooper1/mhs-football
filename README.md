@@ -42,5 +42,10 @@ I also created Google Sheets our coaches could use to grade our athletes. It's v
 
 <br><br>
 
+<img width="1304" height="727" alt="Screenshot 2026-05-08 11 22 48 AM - Display 1" src="https://github.com/user-attachments/assets/18ca11ef-b2b2-4e43-be41-662851caca1a" />
+This is a sample of the grade report they get each week. It's a query that shows all of the plays they are in as well as how they graded in each category.
+
+<br><br>
+
 <img width="1136" height="604" alt="Screenshot 2026-05-08 11 19 25 AM - Display 1" src="https://github.com/user-attachments/assets/829a2e2a-7676-4555-8425-ef6dd76aff33" />
 Here is the cumulative grades. Names have been cropped out for privacy. You can see how well each player did with each skill as well as each week.
