@@ -28,3 +28,4 @@ This is the dashboard I use for formation tendencies. I can filter by season or 
 <br><br>
 
 <img width="1055" height="597" alt="Def1" src="https://github.com/user-attachments/assets/f821ed67-da78-40e2-be95-b2465f69e7e7" />
+This is our scouting dashboard. We use this to look at tendencies and trends for our upcoming opponents. 
