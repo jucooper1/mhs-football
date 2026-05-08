@@ -35,3 +35,12 @@ This is our scouting dashboard. We use this to look at tendencies and trends for
 <img width="1108" height="907" alt="Screenshot 2026-05-08 10 38 01 AM - Display 1" src="https://github.com/user-attachments/assets/14f32c00-3a44-47e9-9e3b-4d96632181cc" />
 This is my Special Teams dashboard I use during the season. I print this off for Fridays to let me know what to expect. I also use it to gameplan. My school has chromebooks, so I made this in Google Sheets so I can work with it at school. Here is the link to view the Google Sheet. https://docs.google.com/spreadsheets/d/125OBW1mrovEvSRMBVQwYfdI8BvsgQEJbEWDJXPtkVTQ/edit?usp=sharing
 
+<br><br>
+
+<img width="1258" height="706" alt="Screenshot 2026-05-08 11 15 11 AM - Display 1" src="https://github.com/user-attachments/assets/fe6c4699-7e41-4028-9dae-fc6498e9a849" />
+I also created Google Sheets our coaches could use to grade our athletes. It's very simple. They fill in the week of the game and what play number it is and then select the player by jersey number from a drop down. After that its just check boxes. This is our DL grading sheet. We grade them on alignment, assignment and effort (everyone in the program gets graded on those) and then their position specific skills are first step, hand placement and pad level. We also use it go count loafs. The skills are weights and they get a grade for that play. This is then used to calculate their grade for each skill and also their weekly grade. We can use this to determine what needs to be worked more in practice.
+
+<br><br>
+
+<img width="1136" height="604" alt="Screenshot 2026-05-08 11 19 25 AM - Display 1" src="https://github.com/user-attachments/assets/829a2e2a-7676-4555-8425-ef6dd76aff33" />
+Here is the cumulative grades. Names have been cropped out for privacy. You can see how well each player did with each skill as well as each week.
